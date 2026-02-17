@@ -3,4 +3,3 @@ pycryptodome
 requests
 protobuf
 PyJwt
-google-api-python-client
